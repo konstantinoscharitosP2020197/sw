@@ -45,7 +45,7 @@ neofetch,rufus,hyperfine,python
 
 Το Artix Linux αποτελεί ένα λειτουργικό σύστημα βασισμένο στο Arch Linux με την κύρια διαφορά ότι χρησιμοποιεί init όπως OpenRC, runit, s6 ή Dinit. Επίλεξα να ακολουθήσω τον "δρόμο" του Dinit και η εγκατάσταση του με εμφάνισε πολλές δυσκολίες και προβλήματα σε σχέση με την εγκατάσταση του Arch.
 
-![Arch Linux](https://imgur.com/a/8w80tlr)
+![Arch Linux](https://i.imgur.com/5SOHlbI.gif)
 
 #### Προβλήματα στην εγκατάσταση σε USB Drive
 
