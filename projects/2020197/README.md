@@ -45,6 +45,7 @@ neofetch,rufus,hyperfine,python
 
 Το init αποτελεί την πρώτη διεργασία η οποία εκτελείται με την εκκίνηση του υπολογιστή μας και κατά επέκταση του λογισμικού μας που σε αυτήν την περιπτώση αποτελεί το Linux αλλά και οποίοδήποτε unix system αφού κάνει load το kernel. Το init είναι η πρώτη και η **"γονική" διεργασία** (parent process) οποίασδήποτε διεργασίας στο σύστημα μας απευθείας η έμμεσα από child processes που έχουν άλλα child processes. To init το οποίο κατέχει pid=1(Καθώς το kernel θεωρητικά έχει το pid=0) τρέχει κατα όλην την διαρκεία για την οποία το σύστημα μας είναι ανοιχτό και κύριως σκοπός της είναι να αποτελεί το parent process διαφόρων child process που αποτελούν basic εργαλεία ενός λειτουργικού συστήματος(π.χ ώρα,σύνδεση στο διαδίκτυο) όπου με την σειρά τους αύτα τα child processs θα αποτελέσουν parent process άλλων child process. Το **Systemd,Openrc και το runit** αποτελούν τα πίο διάσημα Linux System inits.
 
+[img](https://github.com/konstantinoscharitosP2020197/swlinks/blob/main/Screenshot%20from%202023-03-10%2019-13-12.png)
 
 ### Πληροφορίες για το Systemd
 
